@@ -1,3 +1,8 @@
+## this is a website by ms-e-g
+
+will contain assignment materials
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ms-e-g/ms-e-g.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
