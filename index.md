@@ -1,8 +1,11 @@
-## this is a website by ms-e-g
+## ms-e-g's micro site for AT1
 
-will contain assignment materials
+check back here regulary - assignment materials arriving soon
 
 
+
+
+## ---------------------------------------------------------------------------
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ms-e-g/ms-e-g.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
