@@ -3,9 +3,9 @@
 This page contains links to the resources used in my AT1 micro teach.
 ### Resources
 
-[Slide pack for our lesson](https://github.com/ms-e-g/ms-e-g.github.io/edit/main/index.md)
+[Slide pack for our lesson](https://github.com/ms-e-g/ms-e-g.github.io)
 
-[Solutions to the problem](https://github.com/ms-e-g/ms-e-g.github.io/edit/main/index.md)
+[Solutions to the problem](https://github.com/ms-e-g/ms-e-g.github.io)
 
 
 ### Other Useful Links
