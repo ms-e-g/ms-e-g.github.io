@@ -1,4 +1,4 @@
-## ms-e-g's website for EDUC7642 AT1
+## Welcome to ms-e-g's website
 
 This page contains links to the resources used in my AT1 micro teach.
 ### Resources
