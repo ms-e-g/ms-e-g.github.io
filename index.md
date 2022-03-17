@@ -3,7 +3,7 @@
 This page contains links to the resources used in my AT1 micro teach.
 ### Resources
 
-[Slide pack for our lesson](<a href="ms-e-g.github.io/AT1_Microteach_Presentation.pdf" target="_blank">PDF.</a>)
+[Slide pack for our lesson](https://ms-e-g.github.io/AT1_Microteach_Presentation.pdf)
 
 [Solutions to the problem](https://ms-e-g.github.io/)
 
