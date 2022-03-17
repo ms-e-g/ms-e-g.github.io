@@ -1,3 +1,6 @@
 theme: jekyll-theme-architect
 title: ms-e-g's homepage
 description: This site contains resources and content for EDUC7642
+
+kramdown:
+  input: Kramdown
