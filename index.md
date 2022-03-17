@@ -5,7 +5,7 @@ This page contains links to the resources used in my AT1 micro teach.
 
 [Slide pack for our lesson](https://ms-e-g.github.io/AT1_Microteach_Presentation.pdf)
 
-[Solutions to the problem](https://ms-e-g.github.io/)
+[Solutions to the problem](https://ms-e-g.github.io/AT1_Solution_Exemplars.pdf)
 
 
 ### Other Useful Links
